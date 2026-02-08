@@ -1,0 +1,24 @@
+*,
+html{
+    margin: 4;
+    padding: 4;
+}
+body{
+    background-color: blanchedalmond
+}
+.container-about{
+    background-color: #555;
+    width: 100%;
+    height: 300px;
+}
+.container-ul{
+    background-color: burlywood;
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+.li-navbar{
+    color: rgb(59, 10, 10);
+    list-style-type: none;
+}
